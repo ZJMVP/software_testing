@@ -1,2 +1,4 @@
 chromedriver.exe
 superlists/db.sqlite3
+__pyche__
+*.pyc

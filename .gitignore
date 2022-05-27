@@ -1,4 +1,4 @@
-chromedriver.exe
+superlists/chromedriver.exe
 superlists/db.sqlite3
-__pyche__
+__pycache__
 *.pyc
